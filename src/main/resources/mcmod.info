@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "aafluxified",
+    "name": "Actually Additions Fluxified",
+    "description": "Adds Visual RF to Actually Additions",
+    "version": "1.0.0",
+    "credits": "Actually Additions Developers for an Amazing Mod that uses RF i mean Crystal Flux that is actually Forge Energy.",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "updateUrl": "",
+    "authorList": [
+      "CrankySupertoon"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
