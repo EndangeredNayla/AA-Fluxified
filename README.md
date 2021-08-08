@@ -15,8 +15,8 @@ Below you will find anything you need to know. If you want to download a build y
 This mod does not depend on Actually Additions but it may as well not work without it
 
 ## ⬇️ Downloads
-CurseForge: [Can be found here](https://www.curseforge.com/minecraft/mc-mods/actually-additions-fluxified/files)
-Modrinth: [Can be found here](https://modrinth.com/mod/actually-additions-fluxified/versions)
+- CurseForge: [Can be found here](https://www.curseforge.com/minecraft/mc-mods/actually-additions-fluxified/files)
+- Modrinth: [Can be found here](https://modrinth.com/mod/actually-additions-fluxified/versions)
 
 ## 📦 Modpacks
 * Sure, provide a link to this github or [here](https://www.curseforge.com/minecraft/mc-mods/actually-additions-fluxified).
